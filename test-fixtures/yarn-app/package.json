@@ -1,0 +1,9 @@
+{
+  "name": "fixture-yarn-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "yarn.lock algilanmali",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}

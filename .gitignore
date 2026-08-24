@@ -1,0 +1,13 @@
+node_modules/
+out/
+*.vsix
+
+# Yalniz kok lock dosyasi dislanir (ev konvansiyonu).
+# test-fixtures/ altindakiler TESTIN GIRDISI: detectPackageManager onlara bakiyor,
+# commit edilmezlerse temiz klonda testler kirilir.
+/package-lock.json
+
+# F5 yapilandirmasi paylasilir - testin nasil calistirilacagi buna bagli.
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json

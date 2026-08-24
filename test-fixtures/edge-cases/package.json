@@ -1,0 +1,22 @@
+{
+  "name": "fixture-edge-cases",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ayristiricinin bogulmasi beklenen surum bicimleri",
+  "dependencies": {
+    "@types/node": "^20.19.40",
+    "semver-gte": ">=1.2.3",
+    "semver-or": "^1.0.0 || ^2.0.0",
+    "exact-pin": "3.0.1",
+    "wildcard": "*",
+    "from-git": "github:sindresorhus/is-odd",
+    "from-file": "file:../plain-npm",
+    "aliased": "npm:is-odd@^3.0.1"
+  },
+  "devDependencies": {
+    "tilde-range": "~1.2.0"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}

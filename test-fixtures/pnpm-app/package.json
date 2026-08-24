@@ -1,0 +1,9 @@
+{
+  "name": "fixture-pnpm-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "pnpm-lock.yaml algilanmali",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fixture-plain-npm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "npm lock dosyasi olan duz proje",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
